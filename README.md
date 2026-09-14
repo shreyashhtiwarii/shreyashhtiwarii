@@ -112,23 +112,14 @@ An AI-driven cybersecurity concept focused on reconstructing cyber incidents acr
 
 I'm developing skills in **data cleaning, exploratory data analysis, SQL, statistics, visualization, dashboard development, and machine learning**, with the goal of turning raw data into meaningful insights and actionable decisions.
 
-```text
-Data
-  ↓
-Clean
-  ↓
-Explore
-  ↓
-Analyze
-  ↓
-Visualize
-  ↓
-Understand
-  ↓
-Decide
-```
 
----
+<p align="center">
+  <a href="https://chatgpt.com/s/m_6aa80c7e65388191b7006e407bb5dda0" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Data%20Analytics%20Path-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="View Data Analytics Path">
+  </a>
+</p>
+
+
 
 ## 🧠 `tech_stack`
 
