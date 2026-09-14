@@ -115,7 +115,7 @@ I'm developing skills in **data cleaning, exploratory data analysis, SQL, statis
 
 <p align="center">
   <a href="https://chatgpt.com/s/m_6aa80c7e65388191b7006e407bb5dda0" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Data%20Analytics%20Path-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="View Data Analytics Path">
+    <img src="https://sdmntprkoreacentral.oaiusercontent.com/files/00000000-2548-8206-bf4c-9d14af39a7d6/raw?se=2026-09-14T15%3A14%3A07Z&sp=r&sv=2026-02-06&sr=b&scid=85b8ce96-510a-4c38-8fad-1e98badb719e&skoid=45d5558d-260a-4eed-aec4-6bc512bdfda4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-14T14%3A36%3A28Z&ske=2026-09-15T14%3A36%3A28Z&sks=b&skv=2026-02-06&sig=DVJyfAJ9lrFRxDAhYaEnoVAgcCpAYCdKtCX5rPRwcww%3D">
   </a>
 </p>
 
@@ -139,29 +139,6 @@ I'm developing skills in **data cleaning, exploratory data analysis, SQL, statis
 
 `Machine Learning` `NLP` `Computer Vision` `Generative AI`
 
----
-
-### 📊 Data Analytics Journey
-
-<p align="center">
-  <strong>Turning raw data into meaningful insights and smarter decisions.</strong>
-</p>
-
-<br>
-
-### 🗺️ My Data Analytics Roadmap
-
-<p align="center">
-  <img src="data-analytics-path.svg" width="650" alt="Data Analytics Roadmap">
-</p>
-
-<p align="center">
-  <a href="YOUR_SHARED_CHATGPT_LINK">
-    <img src="https://img.shields.io/badge/🚀%20View%20My%20Data%20Analytics%20Roadmap-0A66C2?style=for-the-badge" alt="View Data Analytics Roadmap">
-  </a>
-</p>
-
----
 
 ### 🛠️ Skills & Technologies
 
