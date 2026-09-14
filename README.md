@@ -82,50 +82,11 @@ An AI-driven cybersecurity concept focused on reconstructing cyber incidents acr
   <img src="https://skillicons.dev/icons?i=python,mysql,excel" height="55"/>
 </p>
 
-```text
-                    DATA ANALYTICS PATH
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Python & SQL    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Data Cleaning   │
-                  │ & Preprocessing  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Exploratory     │
-                  │ Data Analysis   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Statistics &    │
-                  │ Probability     │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Visualization   │
-                  │ & Dashboards    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Power BI &      │
-                  │ Business Intel. │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ ML for          │
-                  │ Analytics       │
-                  └─────────────────┘
-```
+
+<p align="center">
+  <img src="data-analytics-path.svg" width="650">
+</p>
+
 
 ### Analytics Skills
 
