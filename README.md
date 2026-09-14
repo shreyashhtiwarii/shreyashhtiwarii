@@ -333,10 +333,12 @@ The experience helped me strengthen my understanding of **Python, AI application
 </a>
 </p>
 
-   
+<p align="center"> 
 <a href="https://leetcode.com/u/shreyashhtiwarii/">
 <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
+
+</p>
 
    
 <p align="center">
