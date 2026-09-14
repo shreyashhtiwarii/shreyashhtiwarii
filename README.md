@@ -224,16 +224,6 @@ Decide
 
 ---
 
-### ☁️ Cloud & Cybersecurity
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
-</p>
-
-`AWS` `Cloud Computing` `Cybersecurity`
-
----
-
 ## 🧩 `featured_projects`
 
 ### 🛡️ Spatial Cyber Threat Reconstruction Engine
