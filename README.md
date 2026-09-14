@@ -328,54 +328,23 @@ The experience helped me strengthen my understanding of **Python, AI application
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shreyash-tiwari-8525633ba">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+<a href="https://www.linkedin.com/in/shreyash-tiwari-8525633ba"> <img src="https://img.shields.io/badge/LinkedIn-Shreyash%20Tiwari-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a>
 
-</p>
+    
 
+<a href="https://leetcode.com/u/shreyashhtiwarii/"> <img src="https://img.shields.io/badge/LeetCode-shreyashhtiwarii-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/> </a>
 
+    
 
+<a href="https://github.com/shreyashhtiwarii"> <img src="https://img.shields.io/badge/GitHub-shreyashhtiwarii-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
 
-<p align="center"> 
-  
-<a href="https://leetcode.com/u/shreyashhtiwarii/">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
+    
 
-</p>
+<a href="mailto:shreyashtiwari371@gmail.com"> <img src="https://img.shields.io/badge/Gmail-shreyashtiwari371%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
 
-   
-<p align="center">
-  
-<a href="https://github.com/shreyashhtiwarii">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+    
 
-</p>
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shreyash-tiwari-8525633ba">
-<img src="https://img.shields.io/badge/LinkedIn-Shreyash%20Tiwari-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://leetcode.com/u/shreyashhtiwarii/">
-<img src="https://img.shields.io/badge/LeetCode-shreyashhtiwarii-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-</p>
-
-
-<p align="center">
-
-  📧 <code>[shreyashtiwari371@gmail.com](mailto:shreyashtiwari371@gmail.com)</code>
-
-</p>
-
----
-
-<p align="center">
+<a href="https://wa.me/xxxxxxxxxx"> <img src="https://img.shields.io/badge/WhatsApp-xxxxxxxxxx-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/> </a>
 
 </p>
 ---
