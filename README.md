@@ -204,28 +204,6 @@ I'm developing skills in **data cleaning, exploratory data analysis, SQL, statis
 
 ---
 
-### 🔄 My Analytics Workflow
-
-```text
-Raw Data
-    ↓
-Data Collection
-    ↓
-Data Cleaning
-    ↓
-Exploratory Data Analysis
-    ↓
-Statistical Analysis
-    ↓
-Data Visualization
-    ↓
-Dashboard & BI
-    ↓
-Business Insights
-    ↓
-Machine Learning
-```
-
 ### 🎯 Current Focus
 
 * 🐍 Strengthening Python & Pandas
