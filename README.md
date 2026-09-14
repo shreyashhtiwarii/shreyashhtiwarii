@@ -82,11 +82,7 @@ An AI-driven cybersecurity concept focused on reconstructing cyber incidents acr
   <img src="https://skillicons.dev/icons?i=python,mysql,excel" height="55"/>
 </p>
 
-
-<p align="center">
-  <img src="data-analytics-path.svg" width="650">
-</p>
-
+<p align="center"> <a href="https://chatgpt.com/s/m_6aa80c7e65388191b7006e407bb5dda0"> <img src="https://img.shields.io/badge/🔗%20View%20Interactive%20Roadmap-0A66C2?style=for-the-badge" alt="View Interactive Roadmap" /> </a> </p>
 
 ### Analytics Skills
 
