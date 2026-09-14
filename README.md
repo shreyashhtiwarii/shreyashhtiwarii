@@ -347,7 +347,6 @@ The experience helped me strengthen my understanding of **Python, AI application
 <a href="https://wa.me/xxxxxxxxxx"> <img src="https://img.shields.io/badge/WhatsApp-xxxxxxxxxx-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/> </a>
 </p>
 </p>
----
 
 ## GitHub Activity
 
