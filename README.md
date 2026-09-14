@@ -348,7 +348,7 @@ The experience helped me strengthen my understanding of **Python, AI application
 </p>
 </p>
 
-## GitHub Activity 🟩
+## 🟩 GitHub Activity
 
 <div align="center">
 
