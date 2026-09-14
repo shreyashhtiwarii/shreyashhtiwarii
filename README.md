@@ -369,7 +369,7 @@ The experience helped me strengthen my understanding of **Python, AI application
 
 <p align="center">
 
-📧 <code>[shreyashtiwari371@gmail.com](mailto:shreyashtiwari371@gmail.com)</code>
+  📧 <code>[shreyashtiwari371@gmail.com](mailto:shreyashtiwari371@gmail.com)</code>
 
 </p>
 
