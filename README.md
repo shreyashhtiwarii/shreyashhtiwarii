@@ -141,22 +141,104 @@ I'm developing skills in **data cleaning, exploratory data analysis, SQL, statis
 
 ---
 
-### 📊 Data Analytics
+### 📊 Data Analytics Journey
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <strong>Turning raw data into meaningful insights and smarter decisions.</strong>
+</p>
+
+<br>
+
+### 🗺️ My Data Analytics Roadmap
+
+<p align="center">
+  <img src="data-analytics-path.svg" width="650" alt="Data Analytics Roadmap">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00FFB3"/>
-  <img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=00FFB3"/>
-  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <a href="YOUR_SHARED_CHATGPT_LINK">
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Data%20Analytics%20Roadmap-0A66C2?style=for-the-badge" alt="View Data Analytics Roadmap">
+  </a>
 </p>
 
 ---
+
+### 🛠️ Skills & Technologies
+
+#### 🐍 Programming & Querying
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+#### 🧹 Data Analysis & Processing
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+
+#### 📈 Data Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>
+
+#### 📊 Analytics & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-1F6FEB?style=for-the-badge">
+</p>
+
+#### 🤖 Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
+</p>
+
+---
+
+### 🔄 My Analytics Workflow
+
+```text
+Raw Data
+    ↓
+Data Collection
+    ↓
+Data Cleaning
+    ↓
+Exploratory Data Analysis
+    ↓
+Statistical Analysis
+    ↓
+Data Visualization
+    ↓
+Dashboard & BI
+    ↓
+Business Insights
+    ↓
+Machine Learning
+```
+
+### 🎯 Current Focus
+
+* 🐍 Strengthening Python & Pandas
+* 🗄️ Mastering SQL for real-world datasets
+* 📊 Building interactive Power BI dashboards
+* 📈 Improving statistics and analytical thinking
+* 🔍 Developing end-to-end data analytics projects
+* 🤖 Applying Machine Learning to business problems
+
+<p align="center">
+  <i>“Better Data → Better Insights → Better Decisions.”</i>
+</p>
+
 
 ### ⚙️ Backend & Database
 
