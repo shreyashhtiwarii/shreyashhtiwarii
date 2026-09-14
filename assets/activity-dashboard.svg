@@ -3746,7 +3746,7 @@ viewBox="0 0 1000 500">
         height="13"
         rx="3"
         fill="#00ff9d"
-        fill-opacity="0.50">
+        fill-opacity="1.0">
     </rect>
     
 
@@ -3819,7 +3819,7 @@ viewBox="0 0 1000 500">
     font-size="28"
     font-weight="bold">
 
-    25
+    27
 
 </text>
 
