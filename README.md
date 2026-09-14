@@ -8,7 +8,7 @@
 
 ---
 
-## 🖥️ `whoami`
+## 🖥️ `who am I`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ai,github" height="55"/>
@@ -39,7 +39,7 @@ I enjoy taking an idea from a problem statement to a working prototype — from 
 ## 🚀 `what I'm working on`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,flask,postgres" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres" height="55"/>
 </p>
 
 ```text
@@ -47,8 +47,6 @@ I enjoy taking an idea from a problem statement to a working prototype — from 
 > Building practical AI-powered applications
 > Developing Data Analytics skills
 > Working with Python, SQL & Data Visualization
-> Learning Cloud Computing & AWS
-> Exploring Cybersecurity + AI
 > Improving Data Structures & Programming
 > Participating in hackathons and technical projects
 ```
