@@ -331,19 +331,18 @@ The experience helped me strengthen my understanding of **Python, AI application
 <a href="https://www.linkedin.com/in/shreyash-tiwari-8525633ba">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+</p>
 
    
-
 <a href="https://leetcode.com/u/shreyashhtiwarii/">
 <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
    
-
+<p align="center">
 <a href="https://github.com/shreyashhtiwarii">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-
 </p>
 
 <p align="center">
@@ -355,7 +354,6 @@ The experience helped me strengthen my understanding of **Python, AI application
 <a href="https://leetcode.com/u/shreyashhtiwarii/">
 <img src="https://img.shields.io/badge/LeetCode-shreyashhtiwarii-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
-
 </p>
 
 <p align="center">
