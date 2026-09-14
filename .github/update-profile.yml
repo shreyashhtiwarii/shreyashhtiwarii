@@ -10,7 +10,6 @@ permissions:
   contents: write
 
 jobs:
-
   update-profile:
 
     runs-on: ubuntu-latest
