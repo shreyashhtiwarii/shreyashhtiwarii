@@ -19,7 +19,7 @@ Name        : Shreyash Tiwari
 Education   : BTech — Artificial Intelligence
 Focus       : Artificial Intelligence & Machine Learning
 Role        : Data Analyst
-Interests   : Generative AI • Cybersecurity • Cloud Computing
+Interests   : Generative AI • Data Analysis • Machine Learning
 Currently   : Building practical AI-powered systems
 Mindset     : Learn → Build → Experiment → Improve
 ```
