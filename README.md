@@ -1,10 +1,10 @@
-
-# 💫 About Me:
-👋 Hi, I'm **Shreyash Tiwari**<br><br>🎓 I'm a **B.Tech student specializing in Artificial Intelligence** <br><br>🤖 I'm passionate about **Artificial Intelligence, Machine Learning, Data Analytics**. I enjoy building practical projects that combine AI with real-world problem solving.<br><br>💻 **Currently learning:** Python, Machine Learning, Data Analytics, Web Development & APIs.<br><br>🚀 **Currently working on:** AI/ML projects and innovative applications that help solve real-world problems.<br><br>🎯 **Goal:** To become an **Data Analyst** and continuously learn, build, and innovate.<br><br>⚡ **Fun fact:** I believe the best way to learn technology is by building with it.<br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFB3&height=120&section=header&text=Artificial%20Intelligence%20%7C%20Data%20Analytics&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+
+# 💫 About Me:
+👋 Hi, I'm **Shreyash Tiwari**<br><br>🎓 I'm a **B.Tech student specializing in Artificial Intelligence** <br><br>🤖 I'm passionate about **Artificial Intelligence, Machine Learning, Data Analytics**. I enjoy building practical projects that combine AI with real-world problem solving.<br><br>💻 **Currently learning:** Python, Machine Learning, Data Analytics, Web Development & APIs.<br><br>🚀 **Currently working on:** AI/ML projects and innovative applications that help solve real-world problems.<br><br>🎯 **Goal:** To become an **Data Analyst** and continuously learn, build, and innovate.<br><br>⚡ **Fun fact:** I believe the best way to learn technology is by building with it.<br>
 
 ---
 
