@@ -34,6 +34,8 @@
 
 ### `while(alive) { learn(); build(); analyze(); improve(); }`
 
+**Thanks for visiting my profile! 🚀**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0D1117&height=100&section=footer"/>
 
-**Thanks for visiting my profile! 🚀**
+
