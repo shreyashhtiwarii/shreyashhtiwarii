@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm **Shreyash Tiwari**<br><br>🎓 I'm a **B.Tech student specializing in Artificial Intelligence** <br><br>🤖 I'm passionate about **Artificial Intelligence, Machine Learning, Data Analytics**. I enjoy building practical projects that combine AI with real-world problem solving.<br><br>💻 **Currently learning:** Python, Machine Learning, Data Analytics, Web Development & APIs.<br><br>🚀 **Currently working on:** AI/ML projects and innovative applications that help solve real-world problems.<br><br>🎯 **Goal:** To become an **Data Analyst** and continuously learn, build, and innovate.<br><br>⚡ **Fun fact:** I believe the best way to learn technology is by building with it.<br>
+👋 Hi, I'm *****Shreyash Tiwari*****<br><br>🎓 I'm a **B.Tech student specializing in Artificial Intelligence** <br><br>🤖 I'm passionate about **Artificial Intelligence, Machine Learning, Data Analytics**. I enjoy building practical projects that combine AI with real-world problem solving.<br><br>💻 **Currently learning:** Python, Machine Learning, Data Analytics, Web Development & APIs.<br><br>🚀 **Currently working on:** AI/ML projects and innovative applications that help solve real-world problems.<br><br>🎯 **Goal:** To become an **Data Analyst** and continuously learn, build, and innovate.<br><br>⚡ **Fun fact:** I believe the best way to learn technology is by building with it.<br>
 
 ---
 
