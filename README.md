@@ -34,6 +34,6 @@
 
 **Thanks for visiting my profile! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:808000&height=100&section=footer"/>
 
 
