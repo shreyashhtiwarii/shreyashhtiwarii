@@ -323,18 +323,31 @@ Contributed to college-level technology event activities involving web developme
 
 ---
 
-## GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyashhtiwarii&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=shreyashhtiwarii&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
+---
 
 ---
 
-## Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashhtiwarii&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <a href="https://github.com/shreyashhtiwarii">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashhtiwarii&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+      alt="Shreyash Tiwari GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
