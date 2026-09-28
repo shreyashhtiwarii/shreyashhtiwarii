@@ -32,6 +32,26 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shreyashhtiwarii/shreyashhtiwarii/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shreyashhtiwarii/shreyashhtiwarii/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/shreyashhtiwarii/shreyashhtiwarii/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
 **Thanks for visiting my profile! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:808000&height=100&section=footer"/>
