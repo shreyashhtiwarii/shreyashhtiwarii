@@ -56,4 +56,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:808000&height=100&section=footer"/>
 
+I love Fking MY GF.
 
